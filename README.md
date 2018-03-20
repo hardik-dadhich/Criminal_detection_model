@@ -25,3 +25,6 @@ MNIST dataset(nodigit.png) : included<br/>
 ## how to run this model
 simply run digitreader.py and press space baar because it will detect till contour edges.
 output will be detected digit handwriting 
+
+## output of digitreco reding handwriting image
+[!alt tag](https://user-images.githubusercontent.com/25060629/37663889-3d465716-2c80-11e8-8cea-c43488a3b0f7.png)
