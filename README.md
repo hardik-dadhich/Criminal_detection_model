@@ -13,9 +13,15 @@ analysts closely examine individual characteristics on a
 microscopic level to identify criminals and verify document
 manually. This cause time wasting or provide more time to
 criminal to walk away.
+<hr>
 
 ## dependences of model 
-Python 3.x || 2.7 for PIL support
-OpenCV 3
-PIL(python imagining library)
-MNIST dataset(nodigit.png) : included
+Python 3.x || 2.7 for PIL support<br/>
+OpenCV 3 <br/>
+PIL(python imagining library)<br/>
+MNIST dataset(nodigit.png) : included<br/>
+<hr>
+
+## how to run this model
+simply run digitreader.py and press space baar because it will detect till contour edges.
+output will be detected digit handwriting 
