@@ -15,6 +15,11 @@ manually. This cause time wasting or provide more time to
 criminal to walk away.
 <hr>
 
+## solution of the problem using model
+we are creating a handwriting recognizer model. That can recognize the handwritten digits effeciently.
+as well as implemented on text recognizer
+
+
 ## dependences of model 
 Python 3.x || 2.7 for PIL support<br/>
 OpenCV 3 <br/>
