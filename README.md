@@ -37,3 +37,7 @@ output will be detected digit handwriting
 
 ## output as recognizing handwriting digits
 ![alt tag](https://user-images.githubusercontent.com/25060629/37664179-cb442a52-2c80-11e8-872f-a01f12021a9e.png)
+
+
+## Video Link
+[Project Video](https://youtu.be/6-TDaSe0MNo)
